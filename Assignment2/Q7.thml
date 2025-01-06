@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Community Event</title>
+</head>
+<body>
+    <header>
+        <h1>Community Clean-Up Day</h1>
+        <nav>
+            <ul>
+                <li><a href="#schedule">Schedule</a></li>
+                <li><a href="#speakers">Speakers</a></li>
+                <li><a href="#register">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="event-details">
+            <h2>Event Details</h2>
+            <article>
+                <h3>Event Theme</h3>
+                <p>Join us for a day of cleaning, organizing, and revitalizing our community spaces. Together, we can make a difference!</p>
+
+                <h3>Location & Date</h3>
+                <p>Central Park, Main Street<br>Saturday, March 15th, 2025</p>
+
+                <h3>Main Activities</h3>
+                <ul>
+                    <li>Morning cleanup of park areas</li>
+                    <li>Planting trees and flowers</li>
+                    <li>Recycling drive and awareness</li>
+                    <li>Guest speaker sessions on sustainability</li>
+                    <li>Evening community celebration with music and food</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+
+    <aside>
+        <h2>Our Sponsors</h2>
+        <ul>
+            <li><img src="sponsor1-logo.png" alt="Sponsor 1 Logo" width="150"></li>
+            <li><img src="sponsor2-logo.png" alt="Sponsor 2 Logo" width="150"></li>
+            <li><img src="sponsor3-logo.png" alt="Sponsor 3 Logo" width="150"></li>
+        </ul>
+    </aside>
+
+    <footer>
+        <p>Contact us for more details:</p>
+        <p>Email: info@communitycleanup.org | Phone: (555) 123-4567</p>
+        <p><a href="#register">Click here to register for the event!</a></p>
+    </footer>
+</body>
+</html>
